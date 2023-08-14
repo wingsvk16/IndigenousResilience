@@ -1,0 +1,7 @@
+pandas
+numpy
+chart_studio
+plotly
+sklearn
+matplotlib
+kaleido
